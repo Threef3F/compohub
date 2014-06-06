@@ -516,6 +516,17 @@
             "tags": [
                 "gm-48"
             ]
+        },
+        {
+            "name": "indiE3 Jam",
+            "start_date": "2014-06-10",
+            "end_date": "2014-06-14",
+            "description": "June 10 - 14 will be the official indiE3 Jam, hosted by Game Jolt! create any kind of game that you want with some kind of revolutionary theme! (or just do whatever the hell you want!) we strongly encourage selling your indiE3 Jam games as well! on June 15, we’ll be collecting all of the indiE3 Jam games and showing them off all day!",
+            "local": false,
+            "url": "http:\/\/projectindie3.tumblr.com",
+            "tags": [
+                {"indie3"},{"e3"}
+            ]
         }
     ]
 }
